@@ -1,4 +1,5 @@
-# 🧠 LifeOS v2 — سیستم عامل زندگی
+# 🧠 LifeOS v2 —   (ساخته شده توسط claude.ai )سیستم عامل زندگی
+<img width="1909" height="1033" alt="image" src="https://github.com/user-attachments/assets/da8d6eab-7934-4dee-ae57-f964c8d3dc9d" />
 
 ## ساختار فایل‌ها — دقیقاً این مسیرها را رعایت کنید
 
